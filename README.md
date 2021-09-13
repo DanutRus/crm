@@ -5,7 +5,7 @@ The login system is a basic one, the password isn't encrypted, it is just plain 
 The purpose of this platform is to keep clients data in a database. Two important features of this CRM platform are that it can download pdfs based on a word template converted to HTML using information from database and it can calculate the average price of energy selling for every key account manager of the company. 
 Stored data from database can also help the company to create and maintain consumption forecasts. 
 Another features: 
-- add a new client, based on the contract data, if it is supplied only with electrical energy or natural gas or both. There are 3 options. 
+- add a new client, based on the contract data, it depends if it is supplied only with electrical energy or natural gas or both. There are 3 options. 
 - view clients
 - update clients data
 
